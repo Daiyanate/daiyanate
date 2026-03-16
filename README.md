@@ -5,11 +5,11 @@ I created [Infinite Narwhal](https://daiyanate.itch.io/infinite-narwhal) and I'm
 
 ### Habilities
 
+- 📝 Task Management
+- 🧪 Prototyping
+- 🪲 Testing & Debugging
 - 🛠️ Problem resolution
 - 🚀 Code optimization
-- 🪲 Testing & Debugging
-- 🧪 Prototyping
-- 📝 Task Management
 
 ### You can also find me on...
 
