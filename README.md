@@ -15,5 +15,5 @@ I created [Infinite Narwhal](https://daiyanate.itch.io/infinite-narwhal) and I'm
 
 - I know C#, Lua and Python, but I'm also interested in learning C++ and Java.
 - I consider myself a generalist (interested in all the modules of videogame production).
-- Curious about low-level systems.
+- Curious about low-level workflows.
 - You can also find me on 🎨[ArtStation](https://www.artstation.com/daiyanate), 📷[Instagram](https://www.instagram.com/oniguera.draws/), 💼[LinkedIn](https://www.linkedin.com/in/isaac-vera-gregorio/) and 🐦[Twitter/X](https://x.com/daiyanate).
