@@ -1,6 +1,6 @@
 ### Hi there! I'm Daiyanate 🙋‍♂️
 
-I'm an artist and indie developer, improving my skills day after day.\
+I'm an artist and game developer, improving my skills day after day.\
 I created [Infinite Narwhal](https://daiyanate.itch.io/infinite-narwhal) and I'm currently pursuing a Bachelor's Degree in Design and Production of Videogames.
 
 ### Skills
